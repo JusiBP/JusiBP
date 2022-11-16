@@ -1,5 +1,9 @@
 ![JusiBP Banner](../main/JB_BANNER.png)
 
+
+![JusiBP Banner](../main/DPlan.png)
+![JusiBP Banner](../main/myMeme.png)
+![JusiBP Banner](../main/DDuel.png)
 <!--
 **JusiBP/JusiBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
