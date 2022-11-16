@@ -28,6 +28,6 @@ My very first project developed in 4 days at Ironhack using Javascript & DOM. (c
 
 Contact me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josepbp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//linkedin.com/in/josepbp)
 
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepbardesp@gmail.com)
