@@ -23,3 +23,11 @@ Developed with: **JavaScript, Node, Express & Mongo**. (check the repo [here](ht
 
 [DemonDuel](https://jusibp.github.io/DemonDuel_Game/) is a **FrontEnd Game** for adult audiences (Violent Images & Bad Language). A Two-Player VS format game where you'll need to use strategy to beat your opponent in a duel taking place in hell!
 My very first project developed in 4 days at Ironhack using Javascript & DOM. (check the repo [here](https://github.com/JusiBP/DemonDuel_Game))
+
+####
+
+Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josepbp)
+
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josepbardesp@gmail.com)
