@@ -2,7 +2,7 @@
 
 
 ## About me
-###### This is a Heading h6
+###### Under construction...
 
 ## Projects
 #### DPlan
