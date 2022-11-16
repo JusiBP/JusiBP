@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![JusiBP Banner](../main/JB_BANNER.png)
 
 <!--
