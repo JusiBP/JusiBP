@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![JusibP Banner](../master/JB_BANNER.png)
+![JusiBP Banner](../main/JB_BANNER.png)
 
 <!--
 **JusiBP/JusiBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
