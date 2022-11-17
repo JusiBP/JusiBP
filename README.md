@@ -1,4 +1,4 @@
-![JusiBP Banner](../main/JB_BANNER.png)
+![JusiBP Banner](../main/JBLOGO_BANNER.png)
 
 
 ## About me
