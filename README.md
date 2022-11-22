@@ -1,9 +1,6 @@
 ![JusiBP Banner](../main/JBLOGO_BANNER.png)
 
 
-## About me
-###### Under construction...
-
 ## Projects
 #### DPlan
 [![JusiBP Banner](../main/DPlan.png)](https://famous-brioche-240d75.netlify.app/login)
